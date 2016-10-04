@@ -11,9 +11,11 @@ Um jogo de cabo de guerra não jogável, mas que deve servir como "esqueleto" pa
 - Scripts
 - Aplicação de Física com bibliotecas próprias;
 
-##Linguagem de programação
+##Linguagem de Programação
 Javascript
 
-#Versão utilizada
-
+#Versão Utilizada
 Unity 4.6.4
+
+#Período de Desenvolvimento
+**06/2015**
