@@ -14,8 +14,8 @@ Um jogo de cabo de guerra não jogável, mas que deve servir como "esqueleto" pa
 ##Linguagem de Programação
 Javascript
 
-#Versão Utilizada
+##Versão Utilizada
 Unity 4.6.4
 
-#Período de Desenvolvimento
+##Período de Desenvolvimento
 **06/2015**
