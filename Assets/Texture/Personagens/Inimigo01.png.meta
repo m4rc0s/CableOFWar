@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: cb622e8a8b765da4fb2f6c7b6e2b3e9e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Inimigo01_0
+    21300002: Inimigo01_1
+    21300004: Inimigo01_2
+    21300008: Inimigo01_4
+    21300010: Inimigo01_5
+    21300012: Inimigo01_6
+    21300014: Inimigo01_7
+    21300016: Inimigo01_8
+    21300018: Inimigo01_9
+    21300020: Inimigo01_10
+    21300022: Inimigo01_11
+    21300024: Inimigo01_12
+    21300026: Inimigo01_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Inimigo01_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 483
+        width: 70
+        height: 99
+      alignment: 9
+      pivot: {x: .747462034, y: .0894861668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 345
+        width: 53
+        height: 77
+      alignment: 9
+      pivot: {x: .785951734, y: .910518527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 294
+        width: 153
+        height: 187
+      alignment: 9
+      pivot: {x: .48693639, y: .129468784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 325
+        width: 34
+        height: 103
+      alignment: 9
+      pivot: {x: .512735724, y: .939999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 278
+        width: 52
+        height: 66
+      alignment: 9
+      pivot: {x: .874722481, y: .900208473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 205
+        width: 61
+        height: 85
+      alignment: 9
+      pivot: {x: .840731263, y: .907541096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 172
+        width: 45
+        height: 110
+      alignment: 9
+      pivot: {x: .413397551, y: .925139546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 234
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: .893042445, y: .896419883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 213
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: .806277215, y: .868060708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: .842801392, y: .833780587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 97
+        width: 55
+        height: 103
+      alignment: 9
+      pivot: {x: .870856404, y: .953714609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 66
+        width: 23
+        height: 102
+      alignment: 9
+      pivot: {x: .383766502, y: .968450665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 26
+        width: 44
+        height: 55
+      alignment: 9
+      pivot: {x: .658435464, y: .917800486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Inimigo01_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 17
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: .304922134, y: .908802569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
